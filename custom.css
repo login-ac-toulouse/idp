@@ -1,0 +1,14 @@
+.fr-btn-otp {
+    .fr-btn;
+    background: #E4794A;
+}
+
+.fr-btn-otp:hover {
+    .fr-btn;
+    background: #F1A892 !important;
+}
+
+.fr-btn-otp:active {
+    .fr-btn;
+    background: #F4BFB1 !important;
+}
